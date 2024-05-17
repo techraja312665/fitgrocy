@@ -1,0 +1,32 @@
+:root{
+
+    --Col1: #7ED957;
+    --Col2:gray;
+    --Col3:#cecece;
+}
+
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: "poppins",sans-serif;
+    font-weight: 400px;
+    
+
+}
+
+
+
+
+
+
+
+
+
+
+
+#dropdown-basic{
+    outline: none;
+    border: none;
+    padding: 0px;
+    margin: 0px;
+}
